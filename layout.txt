@@ -1,0 +1,16 @@
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+o o o o o x x o x o o o o o o o o o o o o o x o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+o o o x x o o o o x o o o o x x x o o x o o o o o o o x o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+o o x o o o o o o o x o x o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o x o x x x x o x o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+o x o o o o o x o o o o o o o o o o x o d d d d d o x x x o o o o o o o o o o x o o o o o o o o o o o o o o o o o o o o s o o o o o o o o o o o o o o o o o o o o o o o o
+o x x x x o x o o o t o o o o o o x o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o x x o o o o o o o o o o o o o o o o o o o o o o o
+o o o o o o o o o x x x o o o o x o o o o o o o x o o o o o o o o o o o o o o o o o o x o o o o o o o o o o o o o o o o o x o o o o o o o o o o o o o o o o o o o o o o o
+o o o o o o o o o o o o o x x x o o o o o o o o o o o o o o o o x o x x x o o x o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o
+o o o o o o o o x x x x o o o o o o o o o o x o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o j o o o o o o o o o o o o o o o o o o o o o o o o o
+o o o o o o o x o o o o x o o o o o o o o o o o o o o o o o o o x o o o o o o o o o x o x o o o o o o o o o o o o o x x x x d d x x x o o o o o o o o o o o o o o o o o o
+o o o o o o x o o o o o o x o o o o o o o j o o o o o o o o o o o o o o o o o o o x o o o x x o o o o o o o o o o x o o o o o o o o o o o o o o o o o x d x o o o o o o o
+o o o o o x o o o x o o o o o o o o o o o o o o o o o o o o o o o o x o o o o o x o o o o o o x o o o o o o o o x o o o o o o o o o o x o o x o o o o o o o x t o o o o o
+o o o d j o o o o x o o s o x o o o o x o o o o s o o o x o o o o o o s o o o x o o o j x o o o y o o o o o o x o o o o s s s s s s o o o x o o o o j o s o o o o w o o o 
+x x x x x x x x x x x x x x x x x x x x x o o x x x o o o o o o o x x x x x x o o o o x o o x o o x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
